@@ -24,10 +24,7 @@ The analysis looks at the relationship between inflation and the policy interest
 
 ## Full Report
 
-Read the full analysis here:
-
-**[View the full Quarto report](Policy_rate.html)**
-
+📊 [View the full interactive report](https://olasubomi-odujebe.github.io/canada-interest-rate-cycle/Policy_rate.html)
 ## Analytical Approach
 
 The analysis examines:
